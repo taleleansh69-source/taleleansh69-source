@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **taleleansh69@gmail.com** For Collaboration/Project or Any
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="./animated_pattern.gif" alt="Animated pattern" />
 </div>
 
 ## 🌐 Socials:
