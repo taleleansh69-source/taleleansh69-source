@@ -10,9 +10,21 @@ Email Me 👉 ✉️ **taleleansh69@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** Ansh Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+
 <div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00FF&height=200&section=header&text=ANSH&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%" alt="Animated header" />
+
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+cool+things+with+code+%F0%9F%9A%80;Let's+create+something+awesome+%E2%9A%A1" alt="Typing animation" />
+
+  <br><br>
+
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
 </div>
+
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Inteligent-Boy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AnshsInnovationLab)
