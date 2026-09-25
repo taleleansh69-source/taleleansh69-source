@@ -10,60 +10,14 @@ Email Me 👉 ✉️ **taleleansh69@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** Ansh Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-
 <div align="center">
 
-  <!-- 🌌 Animated Neon Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0500FF,25:00E5FF,50:7F00FF,75:FF00E5,100:0500FF&height=230&section=header&text=ANSH&fontSize=75&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=DEVELOPER%20%E2%80%A2%20CREATOR%20%E2%80%A2%20BUILDER&descSize=18&descAlignY=60" width="100%" />
-
-  <br>
-
-  <!-- ⚡ Animated Introduction -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Ansh+%F0%9F%91%8B;Welcome+to+my+digital+space+%F0%9F%8C%8C;I+build+%E2%80%A2+I+create+%E2%80%A2+I+experiment+%F0%9F%9A%80;Turning+ideas+into+reality+%E2%9A%A1" alt="Typing animation" />
-
-  <br><br>
-
-  <!-- 🧬 TECH STACK -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,mongodb,git,github,linux,docker&theme=dark" alt="Tech stack" />
-
-  <br><br>
-
-  <!-- 🛰️ TERMINAL IDENTITY -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=7F00FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+creative_engine...;%3E+Loading+developer_protocols...;%3E+Connecting+to+the+future...;%3E+Ideas+%E2%86%92+Code+%E2%86%92+Reality;%3E+Mission%3A+Create+something+amazing+%F0%9F%9A%80" alt="Developer terminal" />
-
-  <br><br>
-
-  <!-- 🔮 TECH SIGNALS -->
-  <img src="https://img.shields.io/badge/PYTHON-00E5FF?style=for-the-badge&logo=python&logoColor=white&labelColor=080808" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-7F00FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=080808" />
-  <img src="https://img.shields.io/badge/REACT-FF00E5?style=for-the-badge&logo=react&logoColor=white&labelColor=080808" />
-  <img src="https://img.shields.io/badge/NODE.JS-00E5FF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=080808" />
-
-  <br><br><br>
-
-  <!-- 🐍 Contribution Snake -->
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="GitHub contribution snake" />
-
-  <br><br><br>
-
-  <!-- 💫 ANIMATED MOTTO -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Think+Different.;Build+Fearlessly.;Break+Limits.;Keep+Creating.+%F0%9F%94%A5" alt="Animated motto" />
-
-  <br><br>
-
-  <!-- 🔗 SOCIAL SIGNAL -->
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
-  </a>
-
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=7F00FF" />
-  </a>
-
-  <br><br><br>
-
-  <!-- ✨ Animated Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0500FF,25:00E5FF,50:7F00FF,75:FF00E5,100:0500FF&height=120&section=footer&animation=twinkling" width="100%" />
+  <!-- 🐍 GITHUB CONTRIBUTION SNAKE -->
+  <img
+    src="https://profile-readme-generator.com/assets/snake.svg"
+    alt="GitHub Contribution Snake"
+    width="90%"
+  />
 
 </div>
 
